@@ -8,7 +8,7 @@ idna==2.5
 olefile==0.44
 Pillow==4.2.1
 psycopg2==2.7.3
-Pygments==2.2.0
+Pygments==2.7.4
 requests==2.18.2
 urllib3==1.22
 whitenoise==3.3.0
